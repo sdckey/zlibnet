@@ -1,0 +1,6 @@
+C:\Users\simon.key\source\repos\zlibnet\zlibnet\obj\Debug\zlibnet.csprojAssemblyReference.cache
+C:\Users\simon.key\source\repos\zlibnet\zlibnet\obj\Debug\zlibnet.csproj.CoreCompileInputs.cache
+C:\Users\simon.key\source\repos\zlibnet\zlibnet\obj\Debug\zlibnet.dll
+C:\Users\simon.key\source\repos\zlibnet\zlibnet\obj\Debug\zlibnet.pdb
+C:\Users\simon.key\source\repos\zlibnet\zlibnet.dll
+C:\Users\simon.key\source\repos\zlibnet\zlibnet.pdb

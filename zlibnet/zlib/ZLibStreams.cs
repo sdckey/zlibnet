@@ -14,7 +14,7 @@ namespace ZLibNet
 		long pBytesOut = 0;
 		bool pSuccess;
 		//		uint pCrcValue = 0;
-		const int WORK_DATA_SIZE = 0x1000;
+		const int WORK_DATA_SIZE = 65536;
 		byte[] pWorkData = new byte[WORK_DATA_SIZE];
 		int pWorkDataPos = 0;
 
